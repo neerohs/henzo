@@ -1,25 +1,69 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="BBB 01" tvg-logo="http://dns.jserverstv.ml:80/images/c4743e95da64f649e2f535f5d5e54527.png" group-title="BBB 2021",BBB 01
-http://dns.blackouthd.xyz:80/henzo05tb/63692808/174025
-#EXTINF:-1 tvg-id="" tvg-name="BBB 01¹" tvg-logo="http://dns.jserverstv.ml:80/images/c4743e95da64f649e2f535f5d5e54527.png" group-title="BBB 2021",BBB 01¹
-http://dns.blackouthd.xyz:80/henzo05tb/63692808/174026
-#EXTINF:-1 tvg-id="" tvg-name="BBB 02" tvg-logo="http://dns.jserverstv.ml:80/images/c4743e95da64f649e2f535f5d5e54527.png" group-title="BBB 2021",BBB 02
-http://dns.blackouthd.xyz:80/henzo05tb/63692808/174027
-#EXTINF:-1 tvg-id="" tvg-name="BBB 03" tvg-logo="http://dns.jserverstv.ml:80/images/c4743e95da64f649e2f535f5d5e54527.png" group-title="BBB 2021",BBB 03
-http://dns.blackouthd.xyz:80/henzo05tb/63692808/174028
-#EXTINF:-1 tvg-id="" tvg-name="BBB 04" tvg-logo="http://dns.jserverstv.ml:80/images/c4743e95da64f649e2f535f5d5e54527.png" group-title="BBB 2021",BBB 04
-http://dns.blackouthd.xyz:80/henzo05tb/63692808/174029
-#EXTINF:-1 tvg-id="" tvg-name="BBB 2021 MOSAICO" tvg-logo="http://dns.jserverstv.ml:80/images/c4743e95da64f649e2f535f5d5e54527.png" group-title="BBB 2021",BBB 2021 MOSAICO
-http://dns.blackouthd.xyz:80/henzo05tb/63692808/174030
-#EXTINF:-1 tvg-id="" tvg-name="BBB CONFESSIONARIO" tvg-logo="http://dns.jserverstv.ml:80/images/c4743e95da64f649e2f535f5d5e54527.png" group-title="BBB 2021",BBB CONFESSIONARIO
-http://dns.blackouthd.xyz:80/henzo05tb/63692808/174031
-#EXTINF:-1 tvg-id="" tvg-name="BBB COZINHA VIP XEPA" tvg-logo="http://dns.jserverstv.ml:80/images/c4743e95da64f649e2f535f5d5e54527.png" group-title="BBB 2021",BBB COZINHA VIP XEPA
-http://dns.blackouthd.xyz:80/henzo05tb/63692808/174032
-#EXTINF:-1 tvg-id="" tvg-name="BBB PISCINA" tvg-logo="http://dns.jserverstv.ml:80/images/c4743e95da64f649e2f535f5d5e54527.png" group-title="BBB 2021",BBB PISCINA
-http://dns.blackouthd.xyz:80/henzo05tb/63692808/174033
-#EXTINF:-1 tvg-id="" tvg-name="BBB QUARTO COLORIDO" tvg-logo="http://dns.jserverstv.ml:80/images/c4743e95da64f649e2f535f5d5e54527.png" group-title="BBB 2021",BBB QUARTO COLORIDO
-http://dns.blackouthd.xyz:80/henzo05tb/63692808/174034
-#EXTINF:-1 tvg-id="" tvg-name="BBB SALA DE ESTAR" tvg-logo="http://dns.jserverstv.ml:80/images/c4743e95da64f649e2f535f5d5e54527.png" group-title="BBB 2021",BBB SALA DE ESTAR
-http://dns.blackouthd.xyz:80/henzo05tb/63692808/174035
-#EXTINF:-1 tvg-id="" tvg-name="BB 21 - BATE PAPO GSHOW" tvg-logo="http://dns.jslinkdns.xyz:80/images/3d12168a30659fbd10e083262acd0306.jpg" group-title="BBB 2021",BB 21 - BATE PAPO GSHOW
-http://dns.blackouthd.xyz:80/henzo05tb/63692808/190979
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="Canais @ Big Brother Brasil",BBB Acompanhe a Casa FHD
+http://esrv.cc:80/live/Clouddy05/Rr7uL/32758.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="Canais @ Big Brother Brasil",BBB Acompanhe a Casa HD
+http://esrv.cc:80/live/Clouddy05/Rr7uL/32759.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="Canais @ Big Brother Brasil",BBB Acompanhe a Casa SD
+http://esrv.cc:80/live/Clouddy05/Rr7uL/32760.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="Canais @ Big Brother Brasil",BBB Confessionario FHD
+http://esrv.cc:80/live/Clouddy05/Rr7uL/32761.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="Canais @ Big Brother Brasil",BBB Confessionario HD
+http://esrv.cc:80/live/Clouddy05/Rr7uL/32762.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="Canais @ Big Brother Brasil",BBB Cozinha Vip Xepa FHD
+http://esrv.cc:80/live/Clouddy05/Rr7uL/32764.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="Canais @ Big Brother Brasil",BBB Cozinha Vip Xepa HD
+http://esrv.cc:80/live/Clouddy05/Rr7uL/32765.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="Canais @ Big Brother Brasil",BBB Cozinha Vip Xepa SD
+http://esrv.cc:80/live/Clouddy05/Rr7uL/32766.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="Canais @ Big Brother Brasil",BBB FHD 1
+http://esrv.cc:80/live/Clouddy05/Rr7uL/32680.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="Canais @ Big Brother Brasil",BBB FHD 2
+http://esrv.cc:80/live/Clouddy05/Rr7uL/32681.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="Canais @ Big Brother Brasil",BBB FHD 3
+http://esrv.cc:80/live/Clouddy05/Rr7uL/32682.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="Canais @ Big Brother Brasil",BBB HD 1
+http://esrv.cc:80/live/Clouddy05/Rr7uL/32683.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="Canais @ Big Brother Brasil",BBB HD 2
+http://esrv.cc:80/live/Clouddy05/Rr7uL/32684.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="Canais @ Big Brother Brasil",BBB HD 3
+http://esrv.cc:80/live/Clouddy05/Rr7uL/32685.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="Canais @ Big Brother Brasil",BBB Jardim FHD
+http://esrv.cc:80/live/Clouddy05/Rr7uL/32767.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="Canais @ Big Brother Brasil",BBB Jardim HD
+http://esrv.cc:80/live/Clouddy05/Rr7uL/32768.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="Canais @ Big Brother Brasil",BBB Jardim SD
+http://esrv.cc:80/live/Clouddy05/Rr7uL/32769.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="Canais @ Big Brother Brasil",BBB Piscina FHD
+http://esrv.cc:80/live/Clouddy05/Rr7uL/32770.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="Canais @ Big Brother Brasil",BBB Piscina HD
+http://esrv.cc:80/live/Clouddy05/Rr7uL/32771.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="Canais @ Big Brother Brasil",BBB Piscina SD
+http://esrv.cc:80/live/Clouddy05/Rr7uL/32772.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="Canais @ Big Brother Brasil",BBB Quarto Colorido FHD
+http://esrv.cc:80/live/Clouddy05/Rr7uL/32773.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="Canais @ Big Brother Brasil",BBB Quarto Colorido HD
+http://esrv.cc:80/live/Clouddy05/Rr7uL/32774.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="Canais @ Big Brother Brasil",BBB Quarto Colorido SD
+http://esrv.cc:80/live/Clouddy05/Rr7uL/32775.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="Canais @ Big Brother Brasil",BBB Quarto Cordel FHD
+http://esrv.cc:80/live/Clouddy05/Rr7uL/32776.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="Canais @ Big Brother Brasil",BBB Quarto Cordel HD
+http://esrv.cc:80/live/Clouddy05/Rr7uL/32777.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="Canais @ Big Brother Brasil",BBB Quarto Cordel SD
+http://esrv.cc:80/live/Clouddy05/Rr7uL/32778.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="Canais @ Big Brother Brasil",BBB Sala da Casa Extra FHD
+http://esrv.cc:80/live/Clouddy05/Rr7uL/32779.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="Canais @ Big Brother Brasil",BBB Sala da Casa Extra HD
+http://esrv.cc:80/live/Clouddy05/Rr7uL/32780.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="Canais @ Big Brother Brasil",BBB Sala de Estar FHD
+http://esrv.cc:80/live/Clouddy05/Rr7uL/32782.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="Canais @ Big Brother Brasil",BBB Sala de Estar HD
+http://esrv.cc:80/live/Clouddy05/Rr7uL/32783.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="Canais @ Big Brother Brasil",BBB Sala de Estar SD
+http://esrv.cc:80/live/Clouddy05/Rr7uL/32784.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="Canais @ Big Brother Brasil",BBB SD 1
+http://esrv.cc:80/live/Clouddy05/Rr7uL/32686.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="Canais @ Big Brother Brasil",BBB SD 2
+http://esrv.cc:80/live/Clouddy05/Rr7uL/32687.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="Canais @ Big Brother Brasil",BBB SD 3
+http://esrv.cc:80/live/Clouddy05/Rr7uL/32688.m3u8
